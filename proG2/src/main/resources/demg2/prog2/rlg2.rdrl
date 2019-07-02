@@ -1,0 +1,9 @@
+package demg2.prog2;
+
+import java.lang.Number;
+
+rule "rlg2"
+	dialect "mvel"
+	when
+	then
+end
